@@ -1,0 +1,49 @@
+.Formulario div {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:row;
+    background-color: antiquewhite;
+    padding-bottom: 5px;
+       
+}
+.Formulario p{
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.Formulario label{
+    width: 125px;
+    text-align: left;
+    margin-top: 5px;
+    font-style: oblique;
+}
+.Formulario legend{
+    margin-top: 20px;
+    background-color: rgb(95, 141, 160);
+    width: 350px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+
+.Formulario button{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 1px;
+    margin-right: 10px;
+}
+
+h4 {
+    padding: 5px 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
+  
+
